@@ -1,0 +1,17 @@
+{
+    "name": "abdo/rabbit-mq",
+    "autoload": {
+        "psr-4": {
+            "Abdo\\RabbitMq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hossain-mo",
+            "email": "hossainfcih@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.0"
+    }
+}
